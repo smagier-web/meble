@@ -1,0 +1,12 @@
+{
+  "name": "kalkulator-kuchni",
+  "version": "1.0.0",
+  "description": "Kalkulator formatek, frontów, okleiny i rozkroju do projektowania kuchni, z podglądem 3D.",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test",
+    "start": "python3 -m http.server 8000"
+  },
+  "engines": { "node": ">=18" }
+}
